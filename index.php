@@ -20,7 +20,7 @@
   <div class="collapse navbar-collapse" id="collapsibleNavbar">
     <ul class="navbar-nav">
       <li class="nav-item">
-        <a class="nav-link" href="#">Github Repository</a>
+        <a class="nav-link" href="https://github.com/jubaernoman51/MachineVision">Github Repository</a>
       </li>
     </ul>
   </div>  
